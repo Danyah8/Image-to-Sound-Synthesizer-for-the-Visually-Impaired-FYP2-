@@ -4,8 +4,6 @@
 - Project Overview
 - Key Features
 - Technologies Used
-- Demo and Documentation
-- Contributing
 
 ## Project Overview
 SpeakingEyes is an advanced image captioning model that generates descriptive captions for images. Leveraging a deep learning architecture combining a pre-trained InceptionV3 CNN for feature extraction and Transformer layers for sequence generation, SpeakingEyes accurately captures the context of images to produce relevant and meaningful captions.
