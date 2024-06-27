@@ -27,7 +27,3 @@ SpeakingEyes is an advanced image captioning model that generates descriptive ca
 - Image Processing: OpenCV, PIL
 - Data Processing: Pandas, NumPy
 
-## Demo
-
-### Demo Videos
-You can watch a demonstration of SpeakingEyes generating captions for various images here.
